@@ -1,0 +1,14 @@
+{
+  "name": "whoisthat-bot",
+  "version": "1.0.0",
+  "description": "Helps users to keep track of eachother",
+  "main": "bot.js",
+  "author": "Martin Eide",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "mongodb": "^3.1.13",
+    "mongoose": "^5.4.6",
+    "mysql": "^2.16.0",
+    "winston": "^3.1.0"
+  }
+}
